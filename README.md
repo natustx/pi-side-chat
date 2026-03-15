@@ -13,6 +13,8 @@
 pi install npm:pi-side-chat
 ```
 
+https://github.com/user-attachments/assets/3a359f47-c706-46b9-8b16-d05f430d402c
+
 You're in the middle of a longer task and want to ask something small without derailing the main thread — check an API detail, sanity-check an approach, search something, or peek at what the main agent is doing. Open the overlay, ask, close it. Main thread never gets interrupted.
 
 ## Quick Start

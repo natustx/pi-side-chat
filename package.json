@@ -1,6 +1,6 @@
 {
   "name": "pi-side-chat",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Pi extension that forks the current conversation into a temporary side chat",
   "type": "module",
   "main": "index.js",
@@ -18,7 +18,8 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nicobailon/pi-side-chat.git"
+    "url": "git+https://github.com/nicobailon/pi-side-chat.git",
+    "video": "https://github.com/nicobailon/pi-side-chat/raw/refs/heads/main/side-chat.mp4"
   },
   "peerDependencies": {
     "@mariozechner/pi-coding-agent": "*",

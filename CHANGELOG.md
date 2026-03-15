@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.1.3] - 2026-03-15
+
+- Added demo video to README and package.json
+
 ## [0.1.2] - 2026-03-15
 
 - Updated README docs to match current behavior
