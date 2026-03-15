@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.1.2] - 2026-03-15
+
+- Updated README docs to match current behavior
+
 ## [0.1.1] - 2026-03-14
 
 - Extension tools (web_search, fetch_content, etc.) now available in side chat
